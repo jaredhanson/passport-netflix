@@ -1,0 +1,17 @@
+{
+  "name": "passport-netflix",
+  "version": "0.1.0",
+  "description": "Netflix authentication strategy for Passport.",
+  "author": "Jared Hanson <jaredhanson@gmail.com> (http://www.jaredhanson.net/)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jaredhanson/passport-netflix.git"
+  },
+  "main": "./lib/passport-netflix",
+  "dependencies": {
+    "passport-oauth": ">= 0.1.1",
+    "xml2js": ">= 0.1.12"
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "keywords": ["passport", "netflix", "auth", "authn", "authentication", "identity"]
+}
