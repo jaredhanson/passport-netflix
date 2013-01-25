@@ -1,6 +1,6 @@
 {
   "name": "passport-netflix",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Netflix authentication strategy for Passport.",
   "keywords": ["passport", "netflix", "auth", "authn", "authentication", "identity"],
   "repository": {
